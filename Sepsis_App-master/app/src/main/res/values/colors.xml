@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="yellow1">#FEE500</color>
+    <color name="yellow2">#FFEF5D</color>
+    <color name="yellow3">#BDAA00</color>
+    <color name="orange">#FF5E00</color>
+    <color name="green1">#00FF55</color>
+    <color name="green2">#00E44C</color>
+    <color name="green3">#00A637</color>
+    <color name="red1">#FF0000</color>
+    <color name="red2">#FE3F3F</color>
+    <color name="blue1">#AAE3FF</color>
+    <color name="blue2">#758CFF</color>
+    <color name="blue3">#4060FF</color>
+    <color name="violet">#7178D5</color>
+    <color name="violet2">#3F48B9</color>
+    <color name="purple">#673AB7</color>
+    <color name="purple2">#4A148C</color>
+    <color name="purple3">#651FFF</color>
+    <color name="gradient1">#5B0F9E</color>
+    <color name="newblue1">#0D1016</color>
+    <color name="newblue2">#41619A</color>
+    <color name="newblue3">#6CA1FF</color>
+    <color name="transwhite">#66FFFFFF</color>
+    <color name="gradient2">#160041</color>
+    <color name="pink3">#FF00E5</color>
+    <color name="pink2">#FF74F6</color>
+    <color name="pink1">#FC98F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#F1F1F1</color>
+    <color name="gray2">#757575</color>
+    <color name="gray3">#575757</color>
+    <color name="black">#000000</color>
+
+    <color name="windowBackground">#51D1E2</color>
+    <color name="tab_bg_color">#084A6E</color>
+    <color name="bottom_bar_color">#33779C</color>
+
+    <color name="toolbar_title_color">#5FD5E1</color>
+
+    <color name="title_color">#84D6DE</color>
+    <color name="subtitle_color">#B0E7EF</color>
+
+    <color name="filter_pill_color">#297195</color>
+    <color name="filter_pill_selected_color">@color/windowBackground</color>
+
+    <color name="filter_seek_bar_color">#1C6690</color>
+    <color name="filter_seek_bar_selected_color">#359CBA</color>
+
+    <color name="filter_icon_color">#89AFC2</color>
+    <color name="filter_icon_active_color">@android:color/white</color>
+
+    <color name="list_item_bg_collapsed">#E2FAFF</color>
+    <color name="list_item_bg_expanded">@android:color/white</color>
+    <color name="list_item_fg">#aa7CDDE7</color>
+
+    <color name="tab_unselected_color">#356E8C</color>
+    <color name="tab_selected_color">@android:color/white</color>
+
+</resources>
